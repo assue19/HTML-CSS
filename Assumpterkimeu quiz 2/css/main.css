@@ -1,0 +1,49 @@
+body{
+	width:400px;
+	margin:auto;
+	width:1200px;
+	background-color: grey;
+	color: green;
+	
+
+
+}
+h1{
+	color:red;
+}
+h2{
+	color:green;
+}
+.contentone{
+	padding:20px;
+	margin: 0 auto;
+	border-style: solid;
+	background-color: white;
+}
+header{
+	text-align: center;
+	color: white;
+	font-size:bold;
+	font-size:20px;
+	background-color: grey;
+}
+p.solid{
+	border-style: solid;
+}  
+
+
+.contentthree{
+	background-color: grey;
+	text-align: center;
+	font-size: 30px;
+
+
+}
+
+.contenttwo{
+	text-align: center;
+	width :400px;
+}
+	
+
+}

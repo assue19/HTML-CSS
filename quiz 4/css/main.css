@@ -1,0 +1,48 @@
+body{
+	background-color: grey;
+	/*text-align: center;
+	/*width:600px;*/*/
+}
+.container{
+	width:1000px;
+	/*background-color:maroon;*/
+	margin:0 auto;
+	min-height:100px;
+	padding: 50px;
+	line-height: 10em;
+	text-align: center;
+}
+.container.panel{
+	float:left;
+	min-height:100px;
+	background-color:maroon;
+	color:white;
+	text-align:center;
+	
+
+}
+
+
+.top1{
+	background-color: blue;
+	width: 700px;
+
+}
+.top{
+	background-color: yellow;
+	width: 300px;
+	
+}
+.middle{
+	background-color: purple;
+	/*min-height: 100px;*/
+}
+.middle1{
+	background: red;
+}
+.bottom{
+	background:pink;
+}
+.bottom1{
+	background-color: maroon;
+}
