@@ -4,11 +4,10 @@ body{
 	margin: 0;
 	
 }
-header/*.header-text*/{
-	/*width:259px;*/
+header{
+
 	background-color: #364c5d;
-	/*height: 204px;
-*/
+
 	margin: 0 auto;
 	text-transform: uppercase;
 	color: white;
@@ -35,33 +34,29 @@ header/*.header-text*/{
 	margin-top: 20px;
 
 }
-/*.panel.one h1{
-	color: #f7d73e;
-	padding: 10px;
-}*/
+
 .container{
 	background-color: #fff;
-	/*padding: 20px;*/
+	
 	margin: 0 auto;
 	margin-top: 40px;
 	width: 1000px;
 	position: center;
 	height: 400px;
 
-	/*padding-left: 100px;
-	padding-right: 10px;*/
+
 }
 .container h1{
 	background-color: yellow;
 	width: 100%;
 	height: 60px;
 	color: black;
-	/*padding-top: 0px;
+	
 */
 }
 .top{
 	background-color: white;
-	/*padding: 30px;*/
+
 	width: 490px;
 	height: 400px;
 	float: left;
@@ -74,11 +69,10 @@ header/*.header-text*/{
 	padding: 0;
 	margin: 0;
 
-	/*padding: 30px;*/
 }
 .bottom{
 	background-color: white;
-	/*padding: 30px;*/
+	
 	width: 490px;
 	height: 400px;
 	float:right;
@@ -105,30 +99,31 @@ img {
 	margin-top: 20px;
 	height: 400px;
 	
-	/*padding: 30px;*/
-	/*margin: 0 auto;*/
+	
 }
 table{
 	width: 1000px;
 	background-color: #fff;
+	border-collapse: collapse;
+
 }
 .assue table tr th{
 	border-collapse: collapse;
-	/*border: 1px solid blue;
-	/*width: 100%;*/*/
+	
 	background-color: yellow;
+	border-bottom: none;										 
 }
 
 .assue table tr{
-	border-bottom: 1px solid #666;
+	
 	padding: 10px;
 	height: 50px;
 }
 
 .assue table tr td{
 	font-size: 13px;
-	/*padding: 10px;*/
-	border-right: 1px solid #666;
+	
+	border-right: 1px solid #CCC;
 }
 .assue table tr th{
 	font-weight: bold;
@@ -137,16 +132,17 @@ table{
 	background-color: yellow;
 	color: black;
 	font-size: 15px;
-	border-right: 1px solid #666;
+
+	border-collapse: collapse;
 }
 .assue table td{
-	border-bottom: 1px solid black;
+	border-bottom: 1px solid #CCC;
 	color:rgba(0,0,0,0.);
 
 
 }
 .laureen{
-	/*text-align: center;*/
+	
 	width: 100%;
 	background-color: #2f4351;
 	padding-left:  70px;
@@ -155,6 +151,7 @@ table{
 	color: white;
 	padding-bottom: 20px;	
 	 margin-top: 20px;
+	 text-indent: 100px;
 
    left:0px;
 

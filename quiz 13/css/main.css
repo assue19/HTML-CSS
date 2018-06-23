@@ -1,0 +1,93 @@
+body{
+	/*background-color: #222;*/
+	background-image: url(../img/Tuercespina.jpg);
+	background-image: no-repeat;
+
+}
+header{
+	/*width: 100px;*/
+	height: 50px;
+	left: 0px;	
+	right: 0px;
+	background-color: maroon;
+	color: blue;
+	text-align: center;
+	font-size: 3em;
+	margin: 0 auto;
+	position: fixed;
+	top: 0px;
+
+
+	
+
+
+
+}
+.container{
+	/*background-color: pink;*/
+	background-color: rgba(0,0,0,0.5);
+	max-width:  1000px;
+	height: 1000px;
+	text-align: center;
+	margin:0 auto;
+	padding: 30px;
+	margin-top: 90px;
+
+
+
+/*	margin-top: 50px;*/
+	/*position: relative;*/
+
+
+}
+.lau{
+	background-color: yellow;
+	width:500px;
+	height:400px;
+	float: left;
+	margin-left: -20px;
+	/*padding: 10px;*/
+
+}
+.le{
+	background-color: tomato;
+	height:400px;
+	width: 500px;
+	float: right;
+	margin-right: -20px;
+	/*padding: 10px;*/
+}
+.lea{
+	background-color: indigo;
+width: 240px;
+height: 200px;
+float: right;
+margin-top: 20px;
+margin-right: 20px;
+
+
+
+
+}
+.leh{
+background-color: purple;
+width:240px;
+height: 200px;
+float:left;
+margin-top: 20px;
+
+}
+.lem{
+background-color: pink;
+width: 240px;
+height: 200px;
+float: left;
+margin-top: 20px;
+}
+.les{
+background-color:brown;
+width: 240px;
+height: 200px;
+float: right;
+margin-top: 20px;
+}

@@ -1,0 +1,14 @@
+body{
+	background-color: #ccc;
+	}
+	header{
+		background-color:  #222;
+		text-align: center;
+		padding: 50px;
+		color: white;
+	}
+	.container{
+		margin:0px auto;
+		width:1000px;
+		background-color: blue;
+	}

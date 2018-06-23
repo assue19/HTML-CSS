@@ -1,0 +1,84 @@
+body{
+	/*background-color: #222;*/
+	background-image: url(../img/Tuercespina.jpg);
+	background-image: no-repeat;
+
+}
+header{
+	/*width: 100px;*/
+	height: 50px;
+	left: 0px;	
+	right: 0px;
+	background-color: maroon;
+	color: blue;
+	text-align: center;
+	font-size: 3em;
+	margin: 0 auto;
+	position: fixed;
+	top: 0px;
+
+
+	
+
+
+
+}
+.container{
+	/*background-color: pink;*/
+	background-color: rgba(0,0,0,0.5);
+	width: 1000px;
+	height: 1000px;
+	text-align: center;
+	margin:0 auto;
+
+
+/*	margin-top: 50px;*/
+	/*position: relative;*/
+
+
+}
+.fa-cloud{
+	/*bottom: 0px;
+	right: -20px;
+	position: absolute;*/
+	color: red;
+	margin-top: 200px;
+	height: 150px;
+	width: 200px;
+	padding: 10px;
+	background-color: white;
+
+}
+.fa-heart{
+	/*bottom: 0px;
+	left: -20px;
+	position: absolute;*/
+	color: red;
+	height: 150px;
+	width: 200px;
+	padding: 10px;
+	background-color: blue;
+}
+	
+
+.fa-instagram{
+	color: red;
+	height: 150px;
+	width: 200px;
+	padding: 10px;
+	background-color: white;
+	
+
+	
+}	
+.fa-facebook{
+	color: red;
+	height: 150px;
+	width: 200px;
+	padding: 10px;
+	background-color: blue;
+	
+	
+	
+	
+}

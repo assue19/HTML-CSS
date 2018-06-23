@@ -1,0 +1,47 @@
+body{
+	background: #e6e0be;
+}
+.jamal{
+	margin:0px auto;
+	background-color: black;
+	padding-top: 150px;
+	padding-bottom: 100px;
+	padding-left: 150px;
+	padding-right: 150px;
+	width: 200px;
+	margin-top: 20px;
+	color: #fff;
+
+
+}
+button{
+	/*text-align: right;*/
+	float:right;
+	background: blue;
+	color: #fff;
+	outline: none;
+	border: none;
+	padding: 10px;
+
+}
+.ses{
+	margin:0 auto;
+	text-align:center;
+color:  #fff;
+font-size: 20px;
+font-weight:lighter;
+padding: 10px;
+}
+input{
+
+position: relative;
+display: block;
+margin : 0 auto;
+border:none;
+}
+.lau button{
+	float: right;
+}
+.lau input{
+	float:left;
+}
