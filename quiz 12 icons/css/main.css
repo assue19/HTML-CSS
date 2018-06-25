@@ -25,6 +25,9 @@ header{
 }
 .container{
 	/*background-color: pink;*/
+	background-image: url(../img/webs.jpg);
+	background-size:cover;
+
 	background-color: rgba(0,0,0,0.5);
 	width: 1000px;
 	height: 1000px;
@@ -72,7 +75,7 @@ header{
 	
 }	
 .fa-facebook{
-	color: red;
+	color: yellow;
 	height: 150px;
 	width: 200px;
 	padding: 10px;
@@ -81,4 +84,66 @@ header{
 	
 	
 	
+}
+.fa-car{
+	height: 150px;
+	width: 200px;
+	padding: 10px;
+	background-color: #8d912d;
+	color: grey;
+}
+.fa-bluetooth{
+	height: 150px;
+	width: 200px;
+	padding: 5px;
+	background-color: #816b40;
+	color: grey;
+}
+.fa-android{
+	height: 150px;
+	width: 200px;
+	padding: 5px;
+	background-color: #eaa417;
+	color: grey;
+}
+.fa-dribbble{
+	height: 150px;
+	width: 200px;
+	padding: 5px;
+	background-color: tomato;
+	
+}
+.fa-google-plus{
+	height: 150px;
+	width: 200px;
+	padding: 5px;
+	background-color: #32c615;
+	
+}
+.fa-fighter-jet{
+height: 150px;
+	width: 200px;
+	padding: 5px;
+	background-color: tomato;
+	
+}
+.fa-wheelchair{
+	height: 150px;
+	width: 200px;
+	padding: 5px;
+	background-color: #b2faa4;
+	
+}
+.a-cc-visa{
+	height: 150px;
+	width: 200px;
+	padding: 5px;
+	background-color: #b2faa4;
+	
+}
+.fa-envira{
+	height: 150px;
+	width: 200px;
+	padding: 5px;
+	background-color: #b2faa4;
 }
